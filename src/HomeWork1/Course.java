@@ -1,3 +1,5 @@
+package HomeWork1;
+
 public class Course {
     Barrier[] course = new Barrier[3];
     // Создаем полосу препятствий
